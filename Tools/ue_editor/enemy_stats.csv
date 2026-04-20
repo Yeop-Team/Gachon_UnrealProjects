@@ -1,0 +1,6 @@
+Name,MaxHealth,ScoreReward,MoveSpeed,FireInterval,BulletDamage,MeshPath
+Scout,20,100,500,1.6,6,/Game/Drone/Drone
+Fighter,45,180,420,1.2,10,/Game/Drone/Drone
+Bomber,80,260,320,1.8,18,/Game/Drone/Drone
+Boss01,1500,2500,260,0.9,16,/Game/SpaceShip/SpaceShip
+Boss02,2400,4000,240,0.7,22,/Game/SpaceShip/SpaceShip
