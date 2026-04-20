@@ -1,8 +1,6 @@
 # UE5 3D Flight Shooter — C++ + Python
 
-Unreal Engine 5.7 기반 3D 플라이트 슈팅 게임입니다. 게임플레이 로직은 모두 C++로
-작성되어 있고, 에디터 세팅(Blueprint 자식 생성, DataAsset 주입)은 Python 스크립트
-한 방으로 자동화됩니다.
+Unreal Engine 5.7 기반 3D 플라이트 슈팅 게임입니다. 
 
 ---
 
