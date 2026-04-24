@@ -2,21 +2,7 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.7",
 	"Category": "",
-	"Description": "UE5 3D Flight Shooter — C++ gameplay + Python editor automation",
-	"Modules": [
-		{
-			"Name": "Interior",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine",
-				"CoreUObject",
-				"EnhancedInput",
-				"UMG",
-				"Niagara"
-			]
-		}
-	],
+	"Description": "",
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -27,22 +13,6 @@
 		},
 		{
 			"Name": "GameplayStateTree",
-			"Enabled": true
-		},
-		{
-			"Name": "EnhancedInput",
-			"Enabled": true
-		},
-		{
-			"Name": "PythonScriptPlugin",
-			"Enabled": true
-		},
-		{
-			"Name": "EditorScriptingUtilities",
-			"Enabled": true
-		},
-		{
-			"Name": "Niagara",
 			"Enabled": true
 		}
 	]
